@@ -57,7 +57,7 @@ A list of resources and communities for a developer willing to learn and build t
 - [Bitcoin Core PR Review Club](http://bitcoincore.reviews) (A weekly club for reviewing Bitcoin Core PRs)
 - [LND PR Review Club](http://lnd.reviews) (A biweekly club for reviewing LND PRs)
 - [LDK PR Review Club](https://ldk.reviews/)
-- Bitcoin Core Dev IRC Meeting
+- [Bitcoin Core Dev IRC Meeting](https://bitcoincore.org/en/meetings/)
 - [Bitcoin Design Calendar](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+is%3Aopen+%22community+call%22) (Community Calls, Design Sprints, Project Calls)
 - [Lightning Specification Meeting](https://github.com/lightning/bolts/issues?q=is%3Aissue+is%3Aopen+%22Lightning+Specification+Meeting%22+)
 
