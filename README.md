@@ -28,10 +28,10 @@ A list of resources and communities for a developer willing to learn and build t
 
 ## Bounties
 
-- [Bitcoin Acks]
-- [BIP Bounties]
-- [NYDIG Bitcoin Bounties]
-- [Bitcoin Bounties]
+- [Bitcoin Acks](https://bitcoinacks.com/)
+- [BIP Bounties](https://bipbounty.org/)
+- [NYDIG Bitcoin Bounties](https://nydig.com/bounties)
+- [Bitcoin Bounties](https://bitcoinbounties.org/)
 
 ## Bitcoin/Lightning Open-source Protocol Development - Funding/Employment
 
@@ -88,74 +88,75 @@ A list of resources and communities for a developer willing to learn and build t
 
 ## Other Technical Reading Resources
 
-- Bitcoin Optech
-- Bitcoin Development Philosophy
-- Onboarding to Bitcoin Core
-- Bitcoin Improvement Proposals - BIP
-- Basis of the Lightning Network - BOLT (Lightning Network Specifications)
-- Chaincode Bitcoin Curriculum
-- Chaincode Lightning Curriculum
-- Bitcoin-dev Mailing List
-- Lightning-dev Mailing List
-- LND Builder’s Guide
-- WebLN Guide
-- LNURL Specifications
-- Discreet Log Contracts Specification
-- DLCs Mailing List
-- Bitcoin Stack Exchange
-- Bitcoin Transcripts
-- Bitcoin Search
+- [Bitcoin Optech(https://bitcoinops.org/)()
+- [Bitcoin Development Philosophy](https://rosenbaum.se/btcphil/)
+- [Onboarding to Bitcoin Core](https://obc.256k1.dev/)
+- [Bitcoin Improvement Proposals - BIP](https://github.com/bitcoin/bips)
+- [Basis of the Lightning Network - BOLT (Lightning Network Specifications)](https://github.com/lightning/bolts)
+- [Bitcoin Lightning Improvement Proposals - bLIP](https://github.com/lightning/blips)
+- [Chaincode Bitcoin Curriculum](https://chaincode.gitbook.io/seminars/bitcoin-protocol-development)
+- [Chaincode Lightning Curriculum]()
+- [Bitcoin-dev Mailing List]()
+- [Lightning-dev Mailing List]()
+- [LND Builder’s Guide]()
+- [WebLN Guide]()
+- [LNURL Specifications]()
+- [Discreet Log Contracts Specification]()
+- [DLCs Mailing List]()
+- [Bitcoin Stack Exchange]()
+- [Bitcoin Transcripts]()
+- [Bitcoin Search]()
 
 ## Technical Conferences
 
-- Advancing Bitcoin
-- Tabconf
-- Bitcoin++
-- BTCAzores
+- [Advancing Bitcoin]
+- [Tabconf]
+- [Bitcoin++]
+- [BTCAzores]
 
 ## Bitdevs Socratic Meetups
  
-- Amsterdam
-- Atlanta
-- Austin
-- Berlin
-- Boston
-- Chicago
-- Denver
-- Honolulu
-- Kampala
-- Lagos
-- London
-- Los Angeles
-- Miami
-- Nairobi
-- Paris
-- Portland
-- Raleigh / Durham / Chapel Hill
-- San Francisco
-- San Juan
-- São Paulo
-- Taipei
-- Tampa
-- Vancouver
-- Washington, D.C.
+- [Amsterdam]
+- [Atlanta]
+- [Austin]
+- [Berlin]
+- [Boston]
+- [Chicago]
+- [Denver]
+- [Honolulu]
+- [Kampala]
+- [Lagos]
+- [London]
+- [Los Angeles]
+- [Miami]
+- [Nairobi]
+- [Paris]
+- [Portland]
+- [Raleigh / Durham / Chapel Hill]
+- [San Francisco]
+- [San Juan]
+- [São Paulo]
+- [Taipei]
+- [Tampa]
+- [Vancouver]
+- [Washington, D.C.]
 
 ## Bitcoin-focused VCs
 
-- Ten31
-- Hivemind
-- Trammel Venture Partners
-- Lightning Ventures
-- Bitcoiner Ventures
-- Fulgur Ventures
-- Stillmark
-- Ego Death Capital
-- Kingsway Capital
-- Mimesis Capital
-- PlanB Ventures
-- Seetee
-- Axiom Capital
-- Timechain VC
+- [Ten31]()
+- [Hivemind]()
+- [Trammel Venture Partners]()
+- [Lightning Ventures]()
+- [Bitcoiner Ventures]()
+- [Fulgur Ventures]()
+- [Stillmark]()
+- [Ego Death Capital]()
+- [Kingsway Capital]()
+- [Mimesis Capital]()
+- [PlanB Ventures]()
+- [Seetee]()
+- [Axiom Capital]()
+- [Timechain VC]()
 
 ## Bitcoin Dev Twitter Accounts
 
