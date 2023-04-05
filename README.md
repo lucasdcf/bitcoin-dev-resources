@@ -88,7 +88,7 @@ A list of resources and communities for a developer willing to learn and build t
 
 ## Other Technical Reading Resources
 
-- [Bitcoin Optech(https://bitcoinops.org/)()
+- [Bitcoin Optech](https://bitcoinops.org/)
 - [Bitcoin Development Philosophy](https://rosenbaum.se/btcphil/)
 - [Onboarding to Bitcoin Core](https://obc.256k1.dev/)
 - [Bitcoin Improvement Proposals - BIP](https://github.com/bitcoin/bips)
@@ -96,16 +96,16 @@ A list of resources and communities for a developer willing to learn and build t
 - [Bitcoin Lightning Improvement Proposals - bLIP](https://github.com/lightning/blips)
 - [Chaincode Bitcoin Curriculum](https://chaincode.gitbook.io/seminars/bitcoin-protocol-development)
 - [Chaincode Lightning Curriculum]()
-- [Bitcoin-dev Mailing List]()
-- [Lightning-dev Mailing List]()
-- [LND Builder’s Guide]()
-- [WebLN Guide]()
-- [LNURL Specifications]()
-- [Discreet Log Contracts Specification]()
-- [DLCs Mailing List]()
-- [Bitcoin Stack Exchange]()
-- [Bitcoin Transcripts]()
-- [Bitcoin Search]()
+- [Bitcoin-dev Mailing List](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
+- [Lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev/)
+- [LND Builder’s Guide](https://docs.lightning.engineering/)
+- [WebLN Guide](https://www.webln.guide/introduction/readme)
+- [LNURL Specifications](https://github.com/lnurl/luds)
+- [Discreet Log Contracts Specification](https://github.com/discreetlogcontracts/dlcspecs)
+- [DLCs Mailing List](https://mailmanlists.org/pipermail/dlc-dev/)
+- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/)
+- [Bitcoin Transcripts](https://btctranscripts.com/)
+- [Bitcoin Search](http://bitcoinsearch.xyz)
 
 ## Technical Conferences
 
