@@ -1,6 +1,46 @@
 # bitcoin-dev-resources
 A list of resources and communities for a developer willing to learn and build their career in Bitcoin (WIP)
 
+## Technical Books
+
+- [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+- [Programming Bitcoin](https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/)
+- [Bitcoin: A Work in Progress](https://www.btcwip.com/)
+
+## Other Technical Reading Resources
+
+- [Bitcoin Optech](https://bitcoinops.org/)
+- [Bitcoin Development Philosophy](https://rosenbaum.se/btcphil/)
+- [Onboarding to Bitcoin Core](https://obc.256k1.dev/)
+- [Bitcoin Improvement Proposals - BIP](https://github.com/bitcoin/bips)
+- [Basis of the Lightning Network - BOLT (Lightning Network Specifications)](https://github.com/lightning/bolts)
+- [Bitcoin Lightning Improvement Proposals - bLIP](https://github.com/lightning/blips)
+- [Chaincode Bitcoin Curriculum](https://chaincode.gitbook.io/seminars/bitcoin-protocol-development)
+- [Chaincode Lightning Curriculum]()
+- [Bitcoin-dev Mailing List](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
+- [Lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev/)
+- [LND Builder’s Guide](https://docs.lightning.engineering/)
+- [WebLN Guide](https://www.webln.guide/introduction/readme)
+- [LNURL Specifications](https://github.com/lnurl/luds)
+- [Discreet Log Contracts Specification](https://github.com/discreetlogcontracts/dlcspecs)
+- [DLCs Mailing List](https://mailmanlists.org/pipermail/dlc-dev/)
+- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/)
+- [Bitcoin Transcripts](https://btctranscripts.com/)
+- [Bitcoin Search](http://bitcoinsearch.xyz)
+
+## Educational Programs/Communities
+
+- [Qala](https://qala.dev/) - Africa 
+- [Vinteum](https://vinteum.org/) - Brazil
+- [Librería de Satoshi](https://libreriadesatoshi.com/) - Spanish Speaking LATAM
+- [Bitshala](https://www.bitshala.org/) - India
+- [Torogoz](https://torogoz.dev/) - El Salvador
+- Cubo+ - El Salvador
+- [Base 58](http://base58.info)
+- [Summer of Bitcoin](https://summerofbitcoin.org/) - Global / Open-Source Internship Program
+
 ## Hackerspaces/Startup Acceleration Programs
 
 - [Pleblab](https://www.pleblab.com/) - Austin, US
@@ -15,17 +55,6 @@ A list of resources and communities for a developer willing to learn and build t
 - [Satoshi’s Place](https://satoshisplace.co.uk/) - Bury, UK
 - [Draper Decentralized Studio](https://studio.draperx.vc/) - Global
 - [Bolt.Fun](https://bolt.fun/) - Global Hackathons
-
-## Educational Programs/Communities
-
-- [Qala](https://qala.dev/) - Africa 
-- [Vinteum](https://vinteum.org/) - Brazil
-- [Librería de Satoshi](https://libreriadesatoshi.com/) - Spanish Speaking LATAM
-- [Bitshala](https://www.bitshala.org/) - India
-- [Torogoz](https://torogoz.dev/) - El Salvador
-- Cubo+ - El Salvador
-- [Base 58](http://base58.info)
-- [Summer of Bitcoin](https://summerofbitcoin.org/) - Global / Open-Source Internship Program
 
 ## Bounties
 
@@ -79,35 +108,6 @@ A list of resources and communities for a developer willing to learn and build t
 
 - [Bitcoin Talent](https://www.bitcointalent.co/)
 - [Bitcoiner Jobs](https://bitcoinerjobs.com/)
-
-## Technical Books
-
-- [Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
-- [Mastering the Lightning Network](https://github.com/lnbook/lnbook)
-- [Programming Bitcoin](https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/)
-- [Bitcoin: A Work in Progress](https://www.btcwip.com/)
-
-## Other Technical Reading Resources
-
-- [Bitcoin Optech](https://bitcoinops.org/)
-- [Bitcoin Development Philosophy](https://rosenbaum.se/btcphil/)
-- [Onboarding to Bitcoin Core](https://obc.256k1.dev/)
-- [Bitcoin Improvement Proposals - BIP](https://github.com/bitcoin/bips)
-- [Basis of the Lightning Network - BOLT (Lightning Network Specifications)](https://github.com/lightning/bolts)
-- [Bitcoin Lightning Improvement Proposals - bLIP](https://github.com/lightning/blips)
-- [Chaincode Bitcoin Curriculum](https://chaincode.gitbook.io/seminars/bitcoin-protocol-development)
-- [Chaincode Lightning Curriculum]()
-- [Bitcoin-dev Mailing List](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
-- [Lightning-dev Mailing List](https://lists.linuxfoundation.org/pipermail/lightning-dev/)
-- [LND Builder’s Guide](https://docs.lightning.engineering/)
-- [WebLN Guide](https://www.webln.guide/introduction/readme)
-- [LNURL Specifications](https://github.com/lnurl/luds)
-- [Discreet Log Contracts Specification](https://github.com/discreetlogcontracts/dlcspecs)
-- [DLCs Mailing List](https://mailmanlists.org/pipermail/dlc-dev/)
-- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/)
-- [Bitcoin Transcripts](https://btctranscripts.com/)
-- [Bitcoin Search](http://bitcoinsearch.xyz)
 
 ## Technical Conferences
 
