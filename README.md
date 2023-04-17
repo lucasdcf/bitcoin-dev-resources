@@ -104,6 +104,13 @@ A list of resources and communities for a developer willing to learn and build t
 - [StratumV2](https://stratumprotocol.org/assets/discord.svg)
 - [Fedimint](https://chat.fedimint.org/)
 
+## Tools/Libraries/APIs for Lightning Application Developers
+
+- [Lightning Polar](https://lightningpolar.com/)
+- [Lightning Node Connect](https://docs.lightning.engineering/lightning-network-tools/lightning-terminal/lightning-node-connect) ([lnc-web](https://github.com/lightninglabs/lnc-web) / [lnc-rn](https://github.com/lightninglabs/lnc-rn) / [lightning-node-connect](https://github.com/lightninglabs/lightning-node-connect))
+- [ZEBEDEE API/SDK](https://zebedee.io/developers/api)
+- [LNPAY API/SDK](https://docs.lnpay.co/)
+
 ## Jobs in Bitcoin Companies
 
 - [Bitcoin Talent](https://www.bitcointalent.co/)
