@@ -25,6 +25,7 @@ A list of resources and communities for a developer willing to learn and build t
 - [Torogoz](https://torogoz.dev/) - El Salvador
 - Cubo+ - El Salvador
 - [Base 58](http://base58.info)
+- [Summer of Bitcoin](https://summerofbitcoin.org/) - Global / Open-Source Internship Program
 
 ## Bounties
 
@@ -36,6 +37,7 @@ A list of resources and communities for a developer willing to learn and build t
 ## Bitcoin/Lightning Open-source Protocol Development - Funding/Employment
 
 - [Brink](https://brink.dev/)
+- [Chaincode](https://chaincode.com/)
 - [Lightning Labs](https://lightning.engineering/)
 - [Vinteum](https://vinteum.org/)
 - [Blockstream](https://blockstream.com/)
@@ -116,70 +118,70 @@ A list of resources and communities for a developer willing to learn and build t
 
 ## Bitdevs Socratic Meetups
  
-- [Amsterdam]
-- [Atlanta]
-- [Austin]
-- [Berlin]
-- [Boston]
-- [Chicago]
-- [Denver]
-- [Honolulu]
-- [Kampala]
-- [Lagos]
-- [London]
-- [Los Angeles]
-- [Miami]
-- [Nairobi]
-- [Paris]
-- [Portland]
-- [Raleigh / Durham / Chapel Hill]
-- [San Francisco]
-- [San Juan]
-- [São Paulo]
-- [Taipei]
-- [Tampa]
-- [Vancouver]
-- [Washington, D.C.]
+- [Amsterdam](https://bitdevsamsterdam.org/)
+- [Atlanta](https://atlantabitdevs.org/)
+- [Austin](https://austinbitdevs.com/)
+- [Berlin](https://bitdevs.berlin/)
+- [Boston](https://bostonbitdevs.org/)
+- [Chicago](https://chibitdevs.org/)
+- [Denver](http://denverbitdevs.com/)
+- [Honolulu](http://www.honolulubitdevs.com/)
+- [Kampala](https://twitter.com/BitDevsKla)
+- [Lagos](https://twitter.com/BitDevsLagos)
+- [London](https://londonbitdevs.org/)
+- [Los Angeles](https://bitdevsla.org/)
+- [Miami](https://miamibitdevs.org/)
+- [Nairobi](https://twitter.com/BitDevsNBO)
+- [Paris](https://twitter.com/bitdevsfr)
+- [Portland](https://www.meetup.com/portlandbitdevs/)
+- [Raleigh / Durham / Chapel Hill](https://trianglebitdevs.org/)
+- [San Francisco](https://sfbitcoindevs.org/)
+- [San Juan](https://sanjuanbitdevs.org/)
+- [São Paulo](https://saopaulobitdevs.org/)
+- [Taipei](https://bitdevs.tw/)
+- [Tampa](https://tampabitdevs.io/)
+- [Vancouver](https://bitdevs.ca/)
+- [Washington, D.C.](https://dcbitdevs.org/)
 
 ## Bitcoin-focused VCs
 
-- [Ten31]()
-- [Hivemind]()
-- [Trammel Venture Partners]()
-- [Lightning Ventures]()
-- [Bitcoiner Ventures]()
-- [Fulgur Ventures]()
-- [Stillmark]()
-- [Ego Death Capital]()
-- [Kingsway Capital]()
-- [Mimesis Capital]()
-- [PlanB Ventures]()
-- [Seetee]()
-- [Axiom Capital]()
-- [Timechain VC]()
+- [Ten31](https://ten31.vc/)
+- [Hivemind](https://hivemind.vc/)
+- [Trammel Venture Partners](https://tvp.fund/)
+- [Lightning Ventures](https://ltng.ventures/)
+- [Bitcoiner Ventures](https://www.bitcoinerventures.com/)
+- [Fulgur Ventures](https://fulgur.ventures/)
+- [Stillmark](https://www.stillmark.com/)
+- [Ego Death Capital](https://egodeath.capital/)
+- [Kingsway Capital](https://www.kingswaycap.com/)
+- [Mimesis Capital](https://www.mimesiscapital.com/)
+- [PlanB Ventures](https://venture.angellist.com/planb-ventures/syndicate?utm_campaign=syndicate_direct_link)
+- [Seetee](https://www.seetee.io/)
+- [Axiom Capital](http://axiombtc.capital)
+- [Timechain VC](https://timechain.concentric.vc/)
 
 ## Bitcoin Dev Twitter Accounts
 
-- Bitcoin Core Devs
-- Lightning Network Devs
+- [Bitcoin Core Devs](https://twitter.com/i/lists/1416770080885641216)
+- [Lightning Network Devs](https://twitter.com/i/lists/1416773279721967618)
 
 ## Bitcoin Dev Blogs
 
-- Elle Mouton
-- Rusty Russel / Rusty’s Other Blog
-- Anthony Towns
-- Gloria Zhao
-- Bastien Teinturier
-- Mark Erhardt (Murch)
-- Peter Todd
-- Jeremy Rubin
-- Matt Corallo
-- James O’Beirne
-- Jon Atack
-- 0xB10C
-- Bitcoin.ninja
-- Christian Decker
-- Oliver Gugger
+- [Elle Mouton](https://ellemouton.com/)
+- [Rusty Russel](https://rusty-lightning.medium.com/) / [Rusty’s Other Blog](http://rusty.ozlabs.org/)
+- [Anthony Towns](https://www.erisian.com.au/wordpress/)
+- [Gloria Zhao](https://github.com/glozow/bitcoin-notes)
+- [Bastien Teinturier](https://github.com/t-bast/lightning-docs)
+- [Mark Erhardt (Murch)](https://murch.one/)
+- [Peter Todd](https://petertodd.org/)
+- [Jeremy Rubin](https://rubin.io/blog/)
+- [Matt Corallo](https://bluematt.bitcoin.ninja/)
+- [James O’Beirne](https://jameso.be/)
+- [Jon Atack](https://jonatack.github.io/)
+- [0xB10C](https://b10c.me/)
+- [Bitcoin.ninja](http://bitcoin.ninja)
+- [Christian Decker](https://snyke.net/)
+- [Oliver Gugger](https://gugger.guru/)
 
 
 
