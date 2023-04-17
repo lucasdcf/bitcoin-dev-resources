@@ -111,10 +111,11 @@ A list of resources and communities for a developer willing to learn and build t
 
 ## Technical Conferences
 
-- [Advancing Bitcoin]
-- [Tabconf]
-- [Bitcoin++]
-- [BTCAzores]
+- [Advancing Bitcoin](https://www.advancingbitcoin.com/)
+- [Tabconf](https://tabconf.com/)
+- [Bitcoin++](https://btcplusplus.dev/)
+- [BTCAzores](https://btcazores.com/)
+- [Adopting Bitcoin](https://adoptingbitcoin.org/)
 
 ## Bitdevs Socratic Meetups
  
