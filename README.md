@@ -48,6 +48,7 @@ A list of resources and communities for a developer willing to learn and build t
 - [ATL BitLab](https://atlbitlab.com/) - Atlanta, US
 - [Wolf](http://wolfnyc.com) - New York, US
 - [Bitcoin Park](https://bitcoinpark.com/) - Nashville, US
+- [Bitcoin Grove](https://btcgrove.com) - Miami, US
 - [PlebTLV](https://plebtlv.com/) -  Tel-Aviv, IL
 - [hack.bs](https://hack.bs.it/) - Brescia, IT
 - [BO฿ Space](https://www.bobspaces.net/) - Bangkok, TH
